@@ -48,6 +48,8 @@ function Technologies() {
         <img src={git} title="Git" alt="Git" />
         <img src={github} title="Github" alt="Github" />
         <img src={figma} title="Figma" alt="Figma" />
+        <img src={npm} title="NPM" alt="NPM" />
+        <img src={postman} title="Postman" alt="Postman" />
       </section>
     </main>
   );
