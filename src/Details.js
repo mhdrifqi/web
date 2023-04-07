@@ -68,7 +68,7 @@ export const workDetails = [
   {
     Position: "English Content Writer",
     Company: `Rames Creative`,
-    Location: "Semarang, Jawa Tengah",
+    Location: "Pekalongan, Jawa Tengah",
     Type: "Freelance",
     Duration: "Sep 2021 - Dec 2021",
   },
@@ -110,7 +110,7 @@ export const projectDetails = [
     image: projectImage1,
     description: `I manage social media belonging to fashion brands, starting from content planning, researching, content writing, making briefs, executing designs for Instagram feeds and advertising, making captions, managing KOL, etc.`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://drive.google.com/drive/u/4/folders/12ApB2Ai7P9ZEM5P3RYaMEP48NuDEGTSm",
+    previewLink: "https://drive.google.com/drive/folders/1H_wf1xmFfFy4Rc08jS0Xyzcgw3njj1xA?usp=sharing",
     githubLink: "https://github.com",
   },
   {
@@ -118,7 +118,7 @@ export const projectDetails = [
     image: projectImage2,
     description: `I have several experiences on making graphic design using Adobe Illustrator and Adobe Photoshop, where I define the requirements, visualizing, and creating graphics for Carbon is Lyfe, el.id, boxe, and Jajan Kiw!`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    previewLink: "https://drive.google.com/drive/folders/1Bp-u-0d_GcfPhb8f0Wjn0RLQOtnGS8gH?usp=sharing",
     githubLink: "https://github.com",
   },
   {
@@ -126,7 +126,7 @@ export const projectDetails = [
     image: projectImage3,
     description: `As a Content Marketer, I am responsible for creating written content (carousel) on Instagram starting from conducting research, creating briefs, and visualizing it to increase the engagement of Instagram accounts.`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    previewLink: "https://drive.google.com/drive/folders/1NFpFzRG0zwqy7dheNMnGEJ3wbmO4VoNh?usp=sharing",
     githubLink: "https://github.com",
   },
   {
@@ -134,7 +134,7 @@ export const projectDetails = [
     image: projectImage4,
     description: `During my tenure at Carbon is Lyfe and el.id, I am responsible for capturing images for content and advertising purposes.`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    previewLink: "https://drive.google.com/drive/folders/1oLe1ySBOPm51qUCdvbpBpvItjQ3awuyp?usp=sharing",
     githubLink: "https://github.com",
   },
   {
@@ -142,7 +142,7 @@ export const projectDetails = [
     image: projectImage5,
     description: `Besides taking videos for content and advertising purposes, I am also responsible for editing videos for Instagram Reels, Tiktok, and Youtube videos.`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    previewLink: "https://drive.google.com/drive/folders/15n50YsA5IUpyo6Lw-sksOp460Qnh8_-H?usp=sharing",
     githubLink: "https://github.com",
   },
   {
@@ -150,7 +150,7 @@ export const projectDetails = [
     image: projectImage6,
     description: `I also do modeling for Men's Fashion Brand (Carbon is Lyfe) to display and advertise the products.`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    previewLink: "https://drive.google.com/drive/folders/15t1-Jv4NcFunEonQCbT9_6eLIgkUikD9?usp=sharing",
     githubLink: "https://github.com",
   },
   {
@@ -158,7 +158,7 @@ export const projectDetails = [
     image: projectImage7,
     description: `In my two years experience, I also learned product photography to capture images for catalogs that represent the brand's image.`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    previewLink: "https://drive.google.com/drive/folders/1PnlLEMMYUYdPOe83MBb4CGTMIlMObIL2?usp=sharing",
     githubLink: "https://github.com",
   },
 ];
