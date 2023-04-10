@@ -70,7 +70,7 @@ export const workDetails = [
     Company: `Rames Creative`,
     Location: "Pekalongan, Jawa Tengah",
     Type: "Freelance",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Jan 2022 - Apr 2022",
   },
 ];
 
