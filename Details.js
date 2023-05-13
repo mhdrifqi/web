@@ -58,7 +58,7 @@ export const workDetails = [
     Company: `Carbon is Lyfe`,
     Location: "Banguntapan, DI Yogyakarta",
     Type: "Full Time",
-    Duration: "Oct 2022 - Present",
+    Duration: "Oct 2022 - May 2023",
   },
   {
     Position: "Social Media Officer",
