@@ -39,7 +39,7 @@ export const personalDetails = {
   name: "Muhammad Rifqi",
   tagline: "I am a Graphic Designer | Social Media Enthusiast | Content Marketer",
   img: profile,
-  about: `Muhammad Rifqi is a Bachelor of Political Science from Universitas Muhammadiyah Yogyakarta and currently working as a Creative Marketer at Carbon is Lyfe. A self-motivated person experienced in project management, content management, and content marketing. Rifqi is also a detail-oriented and hard working person who is exhilarated to learn new things and easy to adapt in a new environment.
+  about: `Muhammad Rifqi is a Bachelor of Political Science from Universitas Muhammadiyah Yogyakarta and currently seeking for an opportunity to work as a creative worker. A self-motivated person experienced in project management, content management, and content marketing. Rifqi is also a detail-oriented and hard working person who is exhilarated to learn new things and easy to adapt in a new environment.
   `,
 };
 
